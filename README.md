@@ -56,7 +56,7 @@ PHP 8.3 · Laravel · Vue · Python · FastAPI · PostgreSQL + pgvector · Redis
 
 ## Outros cases
 
-[pep-case](https://github.com/filipelira1/pep-case) · [crm-case](https://github.com/filipelira1/crm-case) · [mermaid-case](https://github.com/filipelira1/mermaid-case)
+[pep-case](https://github.com/filipelira1/pep-case) · [crm-case](https://github.com/filipelira1/crm-case) · [mermaid-case](https://github.com/filipelira1/mermaid-case) · [pacs-case](https://github.com/filipelira1/pacs-case)
 
 ---
 
