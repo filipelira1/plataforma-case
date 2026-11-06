@@ -38,7 +38,7 @@ flowchart LR
 
 Com a plataforma no ar, decidi **focar num produto só** ([pep-case](https://github.com/filipelira1/pep-case)). Três módulos genéricos competiam com ferramentas maduras; o foco num produto trazia mais valor com o mesmo esforço.
 
-O que foi reaproveitado: isolamento por banco, provisionamento por comando, versões com tag e backup, e o processo de trabalho. Saber **desligar o que funciona para apostar no que importa** foi a lição mais útil deste projeto.
+O que foi reaproveitado: isolamento por banco, provisionamento por comando, versões com tag e backup, e o processo de trabalho. Saber **desligar o que funciona para apostar no que importa** foi a decisão mais útil deste projeto.
 
 ## Resultado
 
